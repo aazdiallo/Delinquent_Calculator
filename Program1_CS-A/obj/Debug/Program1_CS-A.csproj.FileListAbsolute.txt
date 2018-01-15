@@ -1,0 +1,18 @@
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.exe.config
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.csprojResolveAssemblyReference.cache
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS_A.Form1.resources
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS_A.Properties.Resources.resources
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.csproj.GenerateResource.Cache
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.exe
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.pdb
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.exe
+c:\users\aazdi\documents\visual studio 2012\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.pdb
+F:\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.exe.config
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.exe
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.pdb
+F:\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.exe
+F:\Projects\Program1_CS-A\Program1_CS-A\bin\Debug\Program1_CS-A.pdb
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.csprojResolveAssemblyReference.cache
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS_A.Form1.resources
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS_A.Properties.Resources.resources
+F:\Projects\Program1_CS-A\Program1_CS-A\obj\Debug\Program1_CS-A.csproj.GenerateResource.Cache
