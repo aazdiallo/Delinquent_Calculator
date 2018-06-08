@@ -1,5 +1,5 @@
 //////////////////// When the streets are a jungle, /////////////////
-//////////////////// There can be only one King //////////////////
+//////////////////// There can only be one King //////////////////
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
